@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make 
-      run:  make Run -C M1_ElectricityBilling_app/3_Implementation
+      run:  make Run -C M1_ElectricityBillingSystem/3_Implementation
